@@ -1,5 +1,5 @@
-# web-dev-learning
-Learning HTML/CSS/JavaScriptHi 
+# web&app-dev-learning
+Learning JavaHTML/CSS/JavaScript
  👋, I'm Divine Zanao</h1>
 A passionate junior application develloper from South Africa
 
